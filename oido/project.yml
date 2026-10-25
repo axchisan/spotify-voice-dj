@@ -1,0 +1,32 @@
+name: Oido
+options:
+  bundleIdPrefix: com.example
+  deploymentTarget:
+    macOS: "27.0"
+settings:
+  base:
+    SWIFT_VERSION: "5.0"
+    MARKETING_VERSION: "1.0"
+    CURRENT_PROJECT_VERSION: "1"
+    CODE_SIGN_STYLE: Automatic
+    ENABLE_HARDENED_RUNTIME: NO
+targets:
+  Oido:
+    type: application
+    platform: macOS
+    sources: [Fuentes]
+    info:
+      path: Fuentes/Info.plist
+      properties:
+        CFBundleDisplayName: DJ
+        CFBundleName: DJ
+        CFBundleDevelopmentRegion: es
+        LSUIElement: true
+        NSMicrophoneUsageDescription: Para escuchar lo que le pides al DJ.
+        NSSpeechRecognitionUsageDescription: Para entender lo que le pides al DJ, sin salir de tu Mac.
+        NSAppleEventsUsageDescription: Para bajar el volumen de Spotify mientras te escucha.
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.example.spotifyvoicedj
+        PRODUCT_NAME: DJ
+        GENERATE_INFOPLIST_FILE: NO

@@ -1,0 +1,16 @@
+# Credenciales y datos personales
+conector/.env
+conector/.token
+config.json
+perfil.json
+conector/bloqueados.json
+.cache_etiquetas.json
+# Modelos descargados (licencias propias) y generados
+modelos/
+# Registros y compilaciones
+*.log
+__pycache__/
+oido/build/
+oido/Oido.xcodeproj/
+oido/Fuentes/Info.plist
+.DS_Store

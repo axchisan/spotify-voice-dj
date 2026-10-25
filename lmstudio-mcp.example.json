@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "spotify-mac": {
+      "command": "/opt/homebrew/bin/uv",
+      "args": ["run", "-q", "--script", "/Users/TU_USUARIO/spotify-voice-dj/conector/spotify_mac.py"]
+    }
+  }
+}

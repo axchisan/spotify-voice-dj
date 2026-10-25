@@ -1,0 +1,10 @@
+{
+  "nombre": "tu nombre",
+  "voz": "es-MX",
+  "modelo": "qwen/qwen3.5-9b",
+  "ttl_modelo": 60,
+  "activacion_por_voz": false,
+  "modelo_activacion": "hey_jarvis_v0.1.onnx",
+  "umbral_activacion": 0.5,
+  "seguimiento": true
+}

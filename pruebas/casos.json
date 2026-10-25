@@ -1,0 +1,1063 @@
+[
+{
+"frase": "pausa",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"pausa"
+]
+}
+},
+{
+"frase": "para la música",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"pausa"
+]
+}
+},
+{
+"frase": "detén la música por favor",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"pausa"
+]
+}
+},
+{
+"frase": "silencio",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"pausa"
+]
+}
+},
+{
+"frase": "sigue",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"seguir"
+]
+}
+},
+{
+"frase": "dale play otra vez",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"seguir"
+]
+}
+},
+{
+"frase": "continúa con la música",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"seguir"
+]
+}
+},
+{
+"frase": "quita la pausa",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"seguir"
+]
+}
+},
+{
+"frase": "siguiente",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"siguiente"
+]
+}
+},
+{
+"frase": "pasa a la siguiente",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"siguiente"
+]
+}
+},
+{
+"frase": "salta esta canción",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"siguiente"
+]
+}
+},
+{
+"frase": "esta no me gusta, cambia",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"siguiente"
+]
+}
+},
+{
+"frase": "esa no",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"siguiente"
+]
+}
+},
+{
+"frase": "la anterior",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"anterior"
+]
+}
+},
+{
+"frase": "vuelve a la canción de antes",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"anterior"
+]
+}
+},
+{
+"frase": "súbele",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"subir"
+]
+}
+},
+{
+"frase": "sube el volumen un poco",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"subir"
+]
+}
+},
+{
+"frase": "más duro",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"subir"
+]
+}
+},
+{
+"frase": "bájale un poco",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"bajar"
+]
+}
+},
+{
+"frase": "está muy alto",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"bajar",
+"volumen"
+]
+}
+},
+{
+"frase": "volumen al 40",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"volumen"
+],
+"valor": [
+"40"
+]
+}
+},
+{
+"frase": "pon el volumen en treinta",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"volumen"
+],
+"valor": [
+"30"
+]
+}
+},
+{
+"frase": "modo aleatorio",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"aleatorio"
+]
+}
+},
+{
+"frase": "repite esta canción",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"repetir"
+]
+}
+},
+{
+"frase": "adelanta 30 segundos",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"adelantar"
+]
+}
+},
+{
+"frase": "regresa veinte segundos",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"retroceder"
+]
+}
+},
+{
+"frase": "qué suena",
+"herramientas": [
+"que_suena"
+],
+"args": {}
+},
+{
+"frase": "quién canta esto",
+"herramientas": [
+"que_suena"
+],
+"args": {}
+},
+{
+"frase": "cómo se llama esta canción",
+"herramientas": [
+"que_suena"
+],
+"args": {}
+},
+{
+"frase": "me gusta esta",
+"herramientas": [
+"guardar_cancion_actual"
+],
+"args": {}
+},
+{
+"frase": "guarda esta canción",
+"herramientas": [
+"guardar_cancion_actual"
+],
+"args": {}
+},
+{
+"frase": "me encanta esta canción, guárdala",
+"herramientas": [
+"guardar_cancion_actual"
+],
+"args": {}
+},
+{
+"frase": "apaga la música en 20 minutos",
+"herramientas": [
+"temporizador"
+],
+"args": {
+"minutos": [
+"20"
+]
+}
+},
+{
+"frase": "pon un temporizador de 30 minutos",
+"herramientas": [
+"temporizador"
+],
+"args": {
+"minutos": [
+"30"
+]
+}
+},
+{
+"frase": "me voy a dormir, para la música en media hora",
+"herramientas": [
+"temporizador"
+],
+"args": {
+"minutos": [
+"30"
+]
+}
+},
+{
+"frase": "pon la DJ",
+"herramientas": [
+"poner_dj"
+],
+"args": {}
+},
+{
+"frase": "DJ",
+"herramientas": [
+"poner_dj"
+],
+"args": {}
+},
+{
+"frase": "ponme la DJ de Spotify",
+"herramientas": [
+"poner_dj"
+],
+"args": {}
+},
+{
+"frase": "pon a Livi",
+"herramientas": [
+"poner_dj"
+],
+"args": {}
+},
+{
+"frase": "pon mis me gusta",
+"herramientas": [
+"poner_mis_me_gusta"
+],
+"args": {}
+},
+{
+"frase": "ponme mis canciones favoritas",
+"herramientas": [
+"poner_mis_me_gusta"
+],
+"args": {}
+},
+{
+"frase": "ponme música de los enanitos verdes",
+"herramientas": [
+"poner_artista"
+],
+"args": {
+"artista": [
+"enanitos"
+]
+}
+},
+{
+"frase": "pon a Ghostemane",
+"herramientas": [
+"poner_artista"
+],
+"args": {
+"artista": [
+"ghostemane"
+]
+}
+},
+{
+"frase": "quiero escuchar Rammstein",
+"herramientas": [
+"poner_artista"
+],
+"args": {
+"artista": [
+"rammstein"
+]
+}
+},
+{
+"frase": "ponme solo canciones de Marilyn Manson",
+"herramientas": [
+"poner_artista"
+],
+"args": {
+"artista": [
+"manson"
+]
+}
+},
+{
+"frase": "reproduce El Tri",
+"herramientas": [
+"poner_artista"
+],
+"args": {
+"artista": [
+"tri"
+]
+}
+},
+{
+"frase": "ponme algo de Måneskin",
+"herramientas": [
+"poner_artista"
+],
+"args": {
+"artista": [
+"maneskin",
+"måneskin"
+]
+}
+},
+{
+"frase": "pon suicide boys",
+"herramientas": [
+"poner_artista"
+],
+"args": {
+"artista": [
+"uicideboy",
+"suicide"
+]
+}
+},
+{
+"frase": "ponme a Kim Dracula y nada más",
+"herramientas": [
+"poner_artista"
+],
+"args": {
+"artista": [
+"dracula"
+]
+}
+},
+{
+"frase": "toca Slipknot",
+"herramientas": [
+"poner_artista"
+],
+"args": {
+"artista": [
+"slipknot"
+]
+}
+},
+{
+"frase": "pon canciones de Don Tetto",
+"herramientas": [
+"poner_artista"
+],
+"args": {
+"artista": [
+"tetto"
+]
+}
+},
+{
+"frase": "radio de Ghost",
+"herramientas": [
+"radio_de_artista"
+],
+"args": {
+"artista": [
+"ghost"
+]
+}
+},
+{
+"frase": "pon la radio de Bring Me The Horizon",
+"herramientas": [
+"radio_de_artista"
+],
+"args": {
+"artista": [
+"horizon"
+]
+}
+},
+{
+"frase": "algo como Sleep Token",
+"herramientas": [
+"radio_de_artista"
+],
+"args": {
+"artista": [
+"sleep token"
+]
+}
+},
+{
+"frase": "música parecida a Linkin Park",
+"herramientas": [
+"radio_de_artista"
+],
+"args": {
+"artista": [
+"linkin"
+]
+}
+},
+{
+"frase": "ponme algo del estilo de Bad Omens",
+"herramientas": [
+"radio_de_artista"
+],
+"args": {
+"artista": [
+"bad omens"
+]
+}
+},
+{
+"frase": "pon Mercury Retrograde de Ghostemane",
+"herramientas": [
+"poner_cancion"
+],
+"args": {
+"cancion": [
+"mercury"
+]
+}
+},
+{
+"frase": "ponme la canción No Debía de Love Ghost",
+"herramientas": [
+"poner_cancion"
+],
+"args": {
+"cancion": [
+"deb"
+]
+}
+},
+{
+"frase": "pon Lonely Day",
+"herramientas": [
+"poner_cancion"
+],
+"args": {
+"cancion": [
+"lonely day"
+]
+}
+},
+{
+"frase": "quiero escuchar Sweet Dreams de Marilyn Manson",
+"herramientas": [
+"poner_cancion"
+],
+"args": {
+"cancion": [
+"sweet dreams"
+]
+}
+},
+{
+"frase": "pon el álbum Meteora",
+"herramientas": [
+"poner_album"
+],
+"args": {
+"album": [
+"meteora"
+]
+}
+},
+{
+"frase": "ponme el disco Toxicity de System of a Down",
+"herramientas": [
+"poner_album"
+],
+"args": {
+"album": [
+"toxicity"
+]
+}
+},
+{
+"frase": "pon mi playlist Dou",
+"herramientas": [
+"poner_playlist"
+],
+"args": {
+"nombre": [
+"dou"
+]
+}
+},
+{
+"frase": "ponme la playlist Dark Melodic Metal",
+"herramientas": [
+"poner_playlist"
+],
+"args": {
+"nombre": [
+"dark melodic"
+]
+}
+},
+{
+"frase": "después de esta pon Antarctica de suicideboys",
+"herramientas": [
+"encolar"
+],
+"args": {
+"cancion": [
+"antarctica"
+]
+}
+},
+{
+"frase": "añade a la cola Gatteka",
+"herramientas": [
+"encolar"
+],
+"args": {
+"cancion": [
+"gatteka"
+]
+}
+},
+{
+"frase": "ponme música clásica",
+"herramientas": [
+"poner_genero"
+],
+"args": {
+"genero": [
+"clasic",
+"clásic"
+]
+}
+},
+{
+"frase": "pon algo de jazz",
+"herramientas": [
+"poner_genero"
+],
+"args": {
+"genero": [
+"jazz"
+]
+}
+},
+{
+"frase": "pon lo-fi para estudiar",
+"herramientas": [
+"poner_genero",
+"poner_mezcla"
+],
+"args": {}
+},
+{
+"frase": "ponme rock de los 80",
+"herramientas": [
+"poner_genero"
+],
+"args": {
+"genero": [
+"80"
+]
+}
+},
+{
+"frase": "quiero metal industrial",
+"herramientas": [
+"poner_genero",
+"poner_mezcla",
+"radio_de_artista"
+],
+"args": {}
+},
+{
+"frase": "pon rock en español",
+"herramientas": [
+"poner_genero",
+"poner_mezcla",
+"radio_de_artista"
+],
+"args": {}
+},
+{
+"frase": "ponme música electrónica",
+"herramientas": [
+"poner_genero"
+],
+"args": {
+"genero": [
+"electr"
+]
+}
+},
+{
+"frase": "pon algo de blues",
+"herramientas": [
+"poner_genero"
+],
+"args": {
+"genero": [
+"blues"
+]
+}
+},
+{
+"frase": "ponme música variada",
+"herramientas": [
+"poner_mezcla",
+"poner_mis_me_gusta",
+"poner_dj"
+],
+"args": {}
+},
+{
+"frase": "pon algo de música",
+"herramientas": [
+"poner_dj",
+"poner_mezcla",
+"poner_mis_me_gusta"
+],
+"args": {}
+},
+{
+"frase": "ey estoy aburrido ponme algo para el momento",
+"herramientas": [
+"poner_dj",
+"poner_mezcla",
+"radio_de_artista"
+],
+"args": {}
+},
+{
+"frase": "sorpréndeme",
+"herramientas": [
+"poner_dj",
+"poner_mezcla",
+"radio_de_artista"
+],
+"args": {}
+},
+{
+"frase": "pon lo que sea",
+"herramientas": [
+"poner_dj",
+"poner_mezcla",
+"poner_mis_me_gusta"
+],
+"args": {}
+},
+{
+"frase": "pon música",
+"herramientas": [
+"poner_dj",
+"poner_mezcla",
+"poner_mis_me_gusta"
+],
+"args": {}
+},
+{
+"frase": "algo nuevo que no haya escuchado",
+"herramientas": [
+"poner_dj",
+"radio_de_artista",
+"poner_mezcla"
+],
+"args": {}
+},
+{
+"frase": "ponme algo que eleve mi adrenalina",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista",
+"poner_genero"
+],
+"args": {}
+},
+{
+"frase": "ponme algo para asear mi casa",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista",
+"poner_genero",
+"poner_dj"
+],
+"args": {}
+},
+{
+"frase": "algo para concentrarme",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista",
+"poner_genero"
+],
+"args": {}
+},
+{
+"frase": "música para el gym",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista",
+"poner_genero"
+],
+"args": {}
+},
+{
+"frase": "algo tranquilo para relajarme",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista",
+"poner_genero"
+],
+"args": {}
+},
+{
+"frase": "estoy triste ponme algo",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista",
+"poner_genero"
+],
+"args": {}
+},
+{
+"frase": "algo para dormir",
+"herramientas": [
+"poner_mezcla",
+"poner_genero",
+"radio_de_artista"
+],
+"args": {}
+},
+{
+"frase": "ponme algo pesado",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista"
+],
+"args": {}
+},
+{
+"frase": "quiero algo con mucha energía",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista"
+],
+"args": {}
+},
+{
+"frase": "algo para programar",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista",
+"poner_genero"
+],
+"args": {}
+},
+{
+"frase": "pon algo nostálgico",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista",
+"poner_genero"
+],
+"args": {}
+},
+{
+"frase": "música para una fiesta",
+"herramientas": [
+"poner_mezcla",
+"poner_genero",
+"radio_de_artista"
+],
+"args": {}
+},
+{
+"frase": "algo oscuro",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista"
+],
+"args": {}
+},
+{
+"frase": "estoy de buen humor",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista",
+"poner_dj"
+],
+"args": {}
+},
+{
+"frase": "pon algo para cocinar",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista",
+"poner_genero",
+"poner_dj"
+],
+"args": {}
+},
+{
+"frase": "otra más tranquila",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista",
+"poner_genero",
+"poner_cancion"
+],
+"args": {}
+},
+{
+"frase": "algo más pesado",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista"
+],
+"args": {}
+},
+{
+"frase": "ponme Bad Bunny",
+"herramientas": [
+"poner_artista",
+"radio_de_artista",
+"ninguna"
+],
+"args": {
+"_bloqueo": [
+"si"
+]
+}
+},
+{
+"frase": "pon reggaetón",
+"herramientas": [
+"poner_genero",
+"ninguna"
+],
+"args": {
+"_bloqueo": [
+"si"
+]
+}
+},
+{
+"frase": "ponme corridos tumbados",
+"herramientas": [
+"poner_genero",
+"ninguna"
+],
+"args": {
+"_bloqueo": [
+"si"
+]
+}
+},
+{
+"frase": "radio de Peso Pluma",
+"herramientas": [
+"radio_de_artista",
+"ninguna"
+],
+"args": {
+"_bloqueo": [
+"si"
+]
+}
+},
+{
+"frase": "hola",
+"herramientas": [
+"ninguna"
+],
+"args": {}
+},
+{
+"frase": "gracias",
+"herramientas": [
+"ninguna"
+],
+"args": {}
+},
+{
+"frase": "qué puedes hacer",
+"herramientas": [
+"ninguna"
+],
+"args": {}
+},
+{
+"frase": "cómo estás",
+"herramientas": [
+"ninguna"
+],
+"args": {}
+}
+]

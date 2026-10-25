@@ -1,0 +1,402 @@
+[
+{
+"frase": "ponte algo de rock pesado",
+"herramientas": [
+"poner_mezcla",
+"poner_genero",
+"radio_de_artista"
+],
+"args": {}
+},
+{
+"frase": "quiero oír a System of a Down",
+"herramientas": [
+"poner_artista"
+],
+"args": {
+"artista": [
+"system"
+]
+}
+},
+{
+"frase": "echa a andar la DJ",
+"herramientas": [
+"poner_dj"
+],
+"args": {}
+},
+{
+"frase": "pon la playlist que se llama Lifelong",
+"herramientas": [
+"poner_playlist"
+],
+"args": {
+"nombre": [
+"lifelong"
+]
+}
+},
+{
+"frase": "detén todo",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"pausa"
+]
+}
+},
+{
+"frase": "ya, apágala",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"pausa"
+]
+}
+},
+{
+"frase": "bájale tantito",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"bajar"
+]
+}
+},
+{
+"frase": "dale más volumen",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"subir"
+]
+}
+},
+{
+"frase": "ponla al cincuenta",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"volumen"
+],
+"valor": [
+"50"
+]
+}
+},
+{
+"frase": "cuál es esta rola",
+"herramientas": [
+"que_suena"
+],
+"args": {}
+},
+{
+"frase": "la quiero en mis favoritas",
+"herramientas": [
+"guardar_cancion_actual"
+],
+"args": {}
+},
+{
+"frase": "pásala",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"siguiente"
+]
+}
+},
+{
+"frase": "regrésala",
+"herramientas": [
+"control"
+],
+"args": {
+"accion": [
+"anterior"
+]
+}
+},
+{
+"frase": "ponme música de Mägo de Oz",
+"herramientas": [
+"poner_artista"
+],
+"args": {
+"artista": [
+"mago",
+"mägo"
+]
+}
+},
+{
+"frase": "algo parecido a Korn",
+"herramientas": [
+"radio_de_artista"
+],
+"args": {
+"artista": [
+"korn"
+]
+}
+},
+{
+"frase": "quiero la radio de Slipknot",
+"herramientas": [
+"radio_de_artista"
+],
+"args": {
+"artista": [
+"slipknot"
+]
+}
+},
+{
+"frase": "pon Chop Suey",
+"herramientas": [
+"poner_cancion"
+],
+"args": {
+"cancion": [
+"chop suey"
+]
+}
+},
+{
+"frase": "ponme In The End de Linkin Park",
+"herramientas": [
+"poner_cancion"
+],
+"args": {
+"cancion": [
+"in the end"
+]
+}
+},
+{
+"frase": "el disco Mezmerize",
+"herramientas": [
+"poner_album"
+],
+"args": {
+"album": [
+"mezmerize"
+]
+}
+},
+{
+"frase": "algo de salsa",
+"herramientas": [
+"poner_genero"
+],
+"args": {
+"genero": [
+"salsa"
+]
+}
+},
+{
+"frase": "música instrumental para leer",
+"herramientas": [
+"poner_genero",
+"poner_mezcla"
+],
+"args": {}
+},
+{
+"frase": "ponme ópera",
+"herramientas": [
+"poner_genero"
+],
+"args": {
+"genero": [
+"opera",
+"ópera"
+]
+}
+},
+{
+"frase": "algo de grunge de los 90",
+"herramientas": [
+"poner_genero",
+"poner_mezcla",
+"radio_de_artista"
+],
+"args": {}
+},
+{
+"frase": "tengo flojera, anímame",
+"herramientas": [
+"poner_mezcla",
+"poner_dj",
+"radio_de_artista"
+],
+"args": {}
+},
+{
+"frase": "voy a correr",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista",
+"poner_genero"
+],
+"args": {}
+},
+{
+"frase": "estoy estresado",
+"herramientas": [
+"poner_mezcla",
+"poner_genero",
+"radio_de_artista"
+],
+"args": {}
+},
+{
+"frase": "voy a manejar, ponme algo",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista",
+"poner_dj"
+],
+"args": {}
+},
+{
+"frase": "algo para lavar los platos",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista",
+"poner_dj"
+],
+"args": {}
+},
+{
+"frase": "quiero llorar un rato",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista",
+"poner_genero"
+],
+"args": {}
+},
+{
+"frase": "algo épico",
+"herramientas": [
+"poner_mezcla",
+"radio_de_artista",
+"poner_genero"
+],
+"args": {}
+},
+{
+"frase": "pon cualquier cosa",
+"herramientas": [
+"poner_dj",
+"poner_mezcla",
+"poner_mis_me_gusta"
+],
+"args": {}
+},
+{
+"frase": "lo de siempre",
+"herramientas": [
+"poner_dj",
+"poner_mis_me_gusta",
+"poner_mezcla"
+],
+"args": {}
+},
+{
+"frase": "mezcla mis favoritas",
+"herramientas": [
+"poner_mis_me_gusta"
+],
+"args": {}
+},
+{
+"frase": "apágate en una hora",
+"herramientas": [
+"temporizador"
+],
+"args": {
+"minutos": [
+"60"
+]
+}
+},
+{
+"frase": "quita el temporizador",
+"herramientas": [
+"temporizador"
+],
+"args": {
+"minutos": [
+"0"
+]
+}
+},
+{
+"frase": "ponme a Karol G",
+"herramientas": [
+"poner_artista",
+"radio_de_artista",
+"ninguna"
+],
+"args": {
+"_bloqueo": [
+"si"
+]
+}
+},
+{
+"frase": "pon perreo",
+"herramientas": [
+"poner_genero",
+"ninguna"
+],
+"args": {
+"_bloqueo": [
+"si"
+]
+}
+},
+{
+"frase": "ponme algo de despecho",
+"herramientas": [
+"poner_genero",
+"ninguna"
+],
+"args": {
+"_bloqueo": [
+"si"
+]
+}
+},
+{
+"frase": "buenas noches",
+"herramientas": [
+"ninguna"
+],
+"args": {}
+},
+{
+"frase": "eres genial",
+"herramientas": [
+"ninguna"
+],
+"args": {}
+}
+]
